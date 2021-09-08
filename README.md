@@ -1,5 +1,5 @@
 # RESTAURANT-CSS-FRAMEWORK <img src="/assets/img/ico_Patate.png" alt="Logo" width="5%"/>
-   Site : [A La Bonne Frite](https://alinebsr.github.io/restaurant-css-framework/index.html)
+   Site : [A La Bonne Frite](https://alinebsr.github.io/restaurant-css-framework-bis/index.html)
 ## Contributeurs - Promo BeCode [CRL-Woods-5.33](https://github.com/becodeorg/CRL-Woods-5.33) :
 [David](https://github.com/SalukiMakingCode) | [Christophe](https://github.com/Christophe28) | [Zaccaria](https://github.com/tbzaccaria) | [Aline](https://github.com/AlineBsr)
 
@@ -28,7 +28,7 @@ Nous avons passé une matinée à définir le concept, l'histoire et les spécif
 
 
 ## Objectif :
-Nous présentons un site web d'un restaurant gastronomique Belge qui s'est exporté à Paris, New-York et Hong-Kong : [A La Bonne Frite] (https://alinebsr.github.io/restaurant-css-framework/index.html)
+Nous présentons un site web d'un restaurant gastronomique Belge qui s'est exporté à Paris, New-York et Hong-Kong : [A La Bonne Frite](https://alinebsr.github.io/restaurant-css-framework-bis/index.html)
 
 ## Crédits images :
 
