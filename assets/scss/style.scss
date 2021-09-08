@@ -1,0 +1,121 @@
+$colorP:#333333;
+$colorLabel:#80713B;
+
+$colorH1:#80713B;
+$letterSpace:2px;
+
+$fontFamH: 'Crushed', cursive;
+$fontF:  'Dosis', sans-serif;
+
+//MAPS
+#mapBxl, #mapPrs, #mapNYC, #mapHgK{
+    height: 25rem;
+    width: 100%;
+}
+
+// CLASSES
+.bordForm{border: solid 1px $colorLabel; }
+
+// STYLES
+h1, h2, h3, h4{ font-family: $fontFamH; }
+h1{ color:$colorH1; }
+h3{ text-transform: capitalize; }
+h4{ text-transform: uppercase;}
+
+label{
+    color:$colorLabel;
+    font-family: $fontF;
+    font-weight: bold;
+}
+
+label, p, h1,h2,h3{  letter-spacing: $letterSpace;}
+p{
+    font-family: $fontF;
+    font-weight: bold;
+    color:$colorP;
+}
+
+#jumbotron {
+        & #firstCol {
+                padding:0px;
+                    & article {
+                        padding-top: 15px;
+                                & .carousel-item {
+                                    & h2 {
+                                        line-height: 55px;
+                                    }
+                                    & p {
+                                        line-height: 42px;
+                                    }
+                                    & mark {
+                                            background-color: #FFFFFFA0;
+                                    }
+                               }
+                    }
+        }
+}
+
+main {
+    & #home {
+        & #blockPromo {
+            padding-top: 20px;
+        }
+
+        & #blockEvent {
+            padding-top: 20px;
+            & #card {
+                padding-bottom: 37px;
+                & p {
+                    padding-top: 25px;
+                    font-weight: bold;
+                }
+            }
+
+        }
+
+        & h2 {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        & #card {
+            padding-bottom:20px;
+        }
+    }
+}
+
+footer {
+    padding-top: 10px;
+    margin-bottom:30px;
+    margin-top:40px;
+    & mark{ font-family: $fontFamH;
+    }
+    & .menu {
+        padding-top: 20px;
+    }
+    & #social {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    & #adress {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        & mark {
+            background-color: transparent;
+            font-weight: bold;
+        }
+    }
+    & hr {
+        padding-bottom: 10px;
+    }
+    & ul {
+        list-style-type: none;
+        & li {
+
+        }
+    }
+
+}
+
+
+

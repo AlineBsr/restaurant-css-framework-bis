@@ -1,0 +1,109 @@
+#mapBxl, #mapPrs, #mapNYC, #mapHgK {
+  height: 25rem;
+  width: 100%;
+}
+
+.bordForm {
+  border: solid 1px #80713B;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Crushed", cursive;
+}
+
+h1 {
+  color: #80713B;
+}
+
+h3 {
+  text-transform: capitalize;
+}
+
+h4 {
+  text-transform: uppercase;
+}
+
+label {
+  color: #80713B;
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+}
+
+label, p, h1, h2, h3 {
+  letter-spacing: 2px;
+}
+
+p {
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+  color: #333333;
+}
+
+#jumbotron #firstCol {
+  padding: 0px;
+}
+#jumbotron #firstCol article {
+  padding-top: 15px;
+}
+#jumbotron #firstCol article .carousel-item h2 {
+  line-height: 55px;
+}
+#jumbotron #firstCol article .carousel-item p {
+  line-height: 42px;
+}
+#jumbotron #firstCol article .carousel-item mark {
+  background-color: #FFFFFFA0;
+}
+
+main #home #blockPromo {
+  padding-top: 20px;
+}
+main #home #blockEvent {
+  padding-top: 20px;
+}
+main #home #blockEvent #card {
+  padding-bottom: 37px;
+}
+main #home #blockEvent #card p {
+  padding-top: 25px;
+  font-weight: bold;
+}
+main #home h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+main #home #card {
+  padding-bottom: 20px;
+}
+
+footer {
+  padding-top: 10px;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+footer mark {
+  font-family: "Crushed", cursive;
+}
+footer .menu {
+  padding-top: 20px;
+}
+footer #social {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+footer #adress {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+footer #adress mark {
+  background-color: transparent;
+  font-weight: bold;
+}
+footer hr {
+  padding-bottom: 10px;
+}
+footer ul {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=style.css.map */
