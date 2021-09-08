@@ -1,0 +1,29 @@
+#jumbotron #firstCol {
+  padding: 0px;
+}
+#jumbotron #firstCol article {
+  padding-top: 15px;
+}
+
+main #home #blockPromo {
+  padding-top: 20px;
+}
+main #home #blockEvent {
+  padding-top: 20px;
+}
+main #home #blockEvent #card {
+  padding-bottom: 37px;
+}
+main #home h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+main #home #card {
+  padding-bottom: 20px;
+}
+
+.testt {
+  padding-top: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
