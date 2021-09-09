@@ -4,14 +4,17 @@
 [David](https://github.com/SalukiMakingCode) | [Christophe](https://github.com/Christophe28) | [Zaccaria](https://github.com/tbzaccaria) | [Aline](https://github.com/AlineBsr)
 
 ##  Utiltié :  
-Le répo « Restaurant-css-framework » est un projet qui s'insère dans le parcours de formation WebDev Junior proposé par [BeCode](https://becode.org/).  
+Le répo « Restaurant-css-framework » est un projet qui s'insère dans le parcours de formation WebDev Junior proposé par [BeCode](https://becode.org/). 
 
 ## Consignes :
 [https://github.com/becodeorg/CRL-Woods-5.33/blob/main/1.TRAIL/01.The-Field/06.Bootstrap/restaurant.md](https://github.com/becodeorg/CRL-Woods-5.33/blob/main/1.TRAIL/01.The-Field/06.Bootstrap/restaurant.md)
 
-## Langages et API :
+## Objectif :
+Nous présentons un site web d'un restaurant gastronomique Belge qui s'est exporté à Paris, New-York et Hong-Kong : [A La Bonne Frite](https://alinebsr.github.io/restaurant-css-framework-bis/index.html)
+
+## Langages et API utilisés :
 - [Framework Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-- JavaScript : [Animate.js](https://animate.style/) , [API Google Maps](https://developers.google.com/maps/documentation/javascript/overview)
+- JavaScript : [Librairie Animate.js](https://animate.style/) , [API Google Maps](https://developers.google.com/maps/documentation/javascript/overview)
 - [HTML/CSS](https://www.w3.org/standards/webdesign/htmlcss.html)
 
 ## Méthodologie : 
@@ -30,8 +33,6 @@ Nous avons passé une matinée à définir le concept, l'histoire et les spécif
 3. Screenshot de l'app Retro :  
   <img src="/assets/img/retro.png" width=20% height=20% alt="Screenshot de l'app Retro"/>  
 
-## Objectif :
-Nous présentons un site web d'un restaurant gastronomique Belge qui s'est exporté à Paris, New-York et Hong-Kong : [A La Bonne Frite](https://alinebsr.github.io/restaurant-css-framework-bis/index.html)
 
 ## Crédits images :
 
