@@ -15,7 +15,7 @@ Nous présentons un site web d'un restaurant gastronomique Belge qui s'est expor
 ## Langages et API utilisés :
 - [Framework Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - JavaScript : [Librairie Animate.js](https://animate.style/) , [API Google Maps](https://developers.google.com/maps/documentation/javascript/overview)
-- [HTML/CSS](https://www.w3.org/standards/webdesign/htmlcss.html)
+- [HTML/CSS/SASS](https://www.w3.org/standards/webdesign/htmlcss.html)
 
 ## Méthodologie : 
 Le groupe s'est organisé en se basant sur **[la méthode Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)** afin de se répartir les tâches.
@@ -24,14 +24,14 @@ Nous avons passé une matinée à définir le concept, l'histoire et les spécif
   A l'aide de l'application [ClubHouse](https://shortcut.com/) nous avons mis en places les objectifs du projet qui se déclinent en *« stories »* consacrées aux tâches et leurs progressions : *BackLog, ToDo, In Progress, Ready for review, Completed*. 
   **Chaque story contient une tâche définie qui peut être attribuée à une ou plusieurs personnes** *(voir screenshots 1 & 2)*.
   
-  **Une fois le projet terminé, nous avons effectué une _rétrospective_** à l'aide de l'app [Retro](https://www.reetro.io/index.html). Cela repose sur la formulation des choses que l'on a apprécié durant la collaboration, les difficultés  que nous avons rencontrées  ainsi que les solutions à mettre en place pour y palier *(voir screenshot 3)*.
+  **Une fois le projet terminé, nous avons effectué une _rétrospective_** à l'aide de l'app [Reetro](https://www.reetro.io/index.html). Cela repose sur la formulation des choses que l'on a apprécié durant la collaboration, les difficultés  que nous avons rencontrées  ainsi que les solutions à mettre en place pour y palier *(voir screenshot 3)*.
  
 1. Screenshot de ClubHouse App :
   <img src="/assets/img/ClubHouse.png" width=20% height=20% alt="Screenshot de ClubHouse App"/>
 2. Screenshot d'une tâche ClubHouse :   
   <img src="/assets/img/ClubHouseTask.png" width=20% height=20% alt="Screenshot d'une tâche ClubHouse"/>
-3. Screenshot de l'app Retro :  
-  <img src="/assets/img/retro.png" width=20% height=20% alt="Screenshot de l'app Retro"/>  
+3. Screenshot de l'app Reetro :  
+  <img src="/assets/img/retro.png" width=20% height=20% alt="Screenshot de l'app Reetro"/>  
 
 
 ## Crédits images :
