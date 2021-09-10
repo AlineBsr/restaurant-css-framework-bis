@@ -3,7 +3,7 @@
 ## Contributeurs - Promo BeCode [CRL-Woods-5.33](https://github.com/becodeorg/CRL-Woods-5.33) :
 [David](https://github.com/SalukiMakingCode) | [Christophe](https://github.com/Christophe28) | [Zaccaria](https://github.com/tbzaccaria) | [Aline](https://github.com/AlineBsr)
 
-##  Utiltié :  
+##  Utilité :  
 Le répo « Restaurant-css-framework » est un projet qui s'insère dans le parcours de formation WebDev Junior proposé par [BeCode](https://becode.org/). 
 
 ## Consignes :
